@@ -1,1 +1,1 @@
-export default ["**.ts"];
+export default ["solutions/**.test.ts"];
