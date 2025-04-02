@@ -5,6 +5,9 @@
   "scripts": {
     "test": "vitest"
   },
+  "bin": {
+    "leet": "./leet.js"
+  },
   "devDependencies": {
     "@vitest/coverage-v8": "^1.4.0",
     "typescript": "^5.2.2",
