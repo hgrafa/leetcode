@@ -1,0 +1,41 @@
+{
+  "workbench.colorTheme": "Omni",
+  "workbench.iconTheme": "symbols",
+
+  "editor.fontWeight": "400",
+  "editor.fontSize": 18, // default: 16
+  "editor.lineHeight": 1.4,
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
+
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.renderLineHighlight": "gutter",
+  "workbench.startupEditor": "none",
+  "workbench.editor.labelFormat": "short",
+  "editor.semanticHighlighting.enabled": false,
+  "explorer.compactFolders": false,
+  "explorer.fileNesting.enabled": true,
+  "editor.minimap.enabled": false,
+  "workbench.layoutControl.enabled": false,
+  "window.commandCenter": false,
+  "symbols.hidesExplorerArrows": false,
+  "breadcrumbs.enabled": false,
+  "editor.smoothScrolling": true,
+  "editor.inlineSuggest.enabled": true,
+
+  "explorer.confirmPasteNative": false,
+  "terminal.integrated.showExitAlert": false,
+  "explorer.confirmDelete": false,
+  "workbench.editor.empty.hint": "hidden",
+  "workbench.tips.enabled": false,
+  "explorer.confirmDragAndDrop": false,
+  "git.openRepositoryInParentFolders": "always",
+  "extensions.ignoreRecommendations": true,
+
+  "npm.packageManager": "npm",
+
+}
